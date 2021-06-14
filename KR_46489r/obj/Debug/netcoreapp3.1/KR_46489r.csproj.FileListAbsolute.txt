@@ -1,0 +1,13 @@
+E:\Университетска работа\ПП\jesus christ please end this\KR_46489r\bin\Debug\netcoreapp3.1\KR_46489r.exe
+E:\Университетска работа\ПП\jesus christ please end this\KR_46489r\bin\Debug\netcoreapp3.1\KR_46489r.deps.json
+E:\Университетска работа\ПП\jesus christ please end this\KR_46489r\bin\Debug\netcoreapp3.1\KR_46489r.runtimeconfig.json
+E:\Университетска работа\ПП\jesus christ please end this\KR_46489r\bin\Debug\netcoreapp3.1\KR_46489r.runtimeconfig.dev.json
+E:\Университетска работа\ПП\jesus christ please end this\KR_46489r\bin\Debug\netcoreapp3.1\KR_46489r.dll
+E:\Университетска работа\ПП\jesus christ please end this\KR_46489r\bin\Debug\netcoreapp3.1\KR_46489r.pdb
+E:\Университетска работа\ПП\jesus christ please end this\KR_46489r\obj\Debug\netcoreapp3.1\KR_46489r.csproj.AssemblyReference.cache
+E:\Университетска работа\ПП\jesus christ please end this\KR_46489r\obj\Debug\netcoreapp3.1\KR_46489r.AssemblyInfoInputs.cache
+E:\Университетска работа\ПП\jesus christ please end this\KR_46489r\obj\Debug\netcoreapp3.1\KR_46489r.AssemblyInfo.cs
+E:\Университетска работа\ПП\jesus christ please end this\KR_46489r\obj\Debug\netcoreapp3.1\KR_46489r.csproj.CoreCompileInputs.cache
+E:\Университетска работа\ПП\jesus christ please end this\KR_46489r\obj\Debug\netcoreapp3.1\KR_46489r.dll
+E:\Университетска работа\ПП\jesus christ please end this\KR_46489r\obj\Debug\netcoreapp3.1\KR_46489r.pdb
+E:\Университетска работа\ПП\jesus christ please end this\KR_46489r\obj\Debug\netcoreapp3.1\KR_46489r.genruntimeconfig.cache
